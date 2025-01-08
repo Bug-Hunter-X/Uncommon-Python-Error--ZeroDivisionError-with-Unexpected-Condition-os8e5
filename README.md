@@ -1,0 +1,1 @@
+This repository demonstrates a subtle error in Python that might not be immediately apparent. The function 'function_with_uncommon_error' potentially throws a ZeroDivisionError under a specific, uncommon condition where both inputs are zero. The solution demonstrates handling this specific case using a more robust check.
